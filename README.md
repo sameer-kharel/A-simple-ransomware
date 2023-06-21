@@ -1,1 +1,1 @@
-# A-simple-ransomware
+This is a simple form of the ransomware attack . It encrypts files in a specific folder on your computer, making them unreadable without a secret password. A notification is displayed, informing you that your files have been encrypted. To decrypt the files and restore them, the same password is used to reverse the encryption process this is basically the use of the code.
